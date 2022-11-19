@@ -19,6 +19,7 @@ export var App = () => {
         style={{ height: '40%' }}
       ></img> 
       hellllllooooo
+      my frand
     </FlexCol>
   )
 }
