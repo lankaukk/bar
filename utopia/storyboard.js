@@ -39,6 +39,7 @@ export var storyboard = (
       >
         <UUID data-uid='b11' />
         heyyyyaaaaa
+        yahhh
       </View>
     </View>
   </Storyboard>
