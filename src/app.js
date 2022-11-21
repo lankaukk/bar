@@ -21,6 +21,7 @@ export var App = () => {
       hellllllooooo
       my frand
       unicorn land
+      fly fly fly
     </FlexCol>
   )
 }
