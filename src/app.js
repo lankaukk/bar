@@ -20,6 +20,7 @@ export var App = () => {
       ></img> 
       hellllllooooo
       my frand
+      unicorn land
     </FlexCol>
   )
 }
