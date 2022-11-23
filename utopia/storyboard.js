@@ -19,10 +19,11 @@ export var storyboard = (
   <Storyboard data-uid='0cd'>
     <View
       style={{
-        backgroundColor: '#8C00FF',
+        backgroundColor: '#FF0088',
         width: 279,
         height: 382,
       }}
+      data-uid='adb'
     >
       <View
         className='rounded-2xl shadow-xl flex items-center justify-center'
