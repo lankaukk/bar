@@ -23,7 +23,6 @@ export var storyboard = (
         width: 279,
         height: 382,
       }}
-      data-uid='adb'
     >
       <View
         className='rounded-2xl shadow-xl flex items-center justify-center'
