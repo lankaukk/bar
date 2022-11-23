@@ -19,7 +19,7 @@ export var storyboard = (
   <Storyboard data-uid='0cd'>
     <View
       style={{
-        backgroundColor: '#FF9100',
+        backgroundColor: '#77FF00',
         width: 279,
         height: 382,
       }}
@@ -37,7 +37,13 @@ export var storyboard = (
         }}
         data-uid='42d'
       >
+<<<<<<< Your Changes
+        Hello!
+||||||| Original
+        heyyyyaaaaa
+=======
         Goodbye!
+>>>>>>> Branch Changes
       </View>
     </View>
   </Storyboard>
