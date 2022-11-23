@@ -37,13 +37,7 @@ export var storyboard = (
         }}
         data-uid='42d'
       >
-<<<<<<< Your Changes
-        Hello!
-||||||| Original
-        heyyyyaaaaa
-=======
-        Goodbye!
->>>>>>> Branch Changes
+        Hey
       </View>
     </View>
   </Storyboard>
