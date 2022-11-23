@@ -37,7 +37,7 @@ export var storyboard = (
         }}
         data-uid='42d'
       >
-        heyyyyaaaaa
+        Goodbye!
       </View>
     </View>
   </Storyboard>
